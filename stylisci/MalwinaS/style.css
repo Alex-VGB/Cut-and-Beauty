@@ -1,0 +1,8 @@
+.container::after {
+    content: 'Malwina S.';
+    font-size: 8vw;
+}
+.singleImgMalwinaS
+{
+    background-image: url(../../image/malwina.webp);
+}

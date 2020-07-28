@@ -1,0 +1,10 @@
+.container::after
+{
+    content: 'Alisher.';
+    font-size: 8vw;
+}
+.singleImgAgnieszkaK
+{
+    background-image: url(../../image/alisher.jpg);
+    background-position: center;
+}

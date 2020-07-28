@@ -1,0 +1,9 @@
+.container::after
+{
+    content: 'Ania D.';
+    font-size: 8vw;
+}
+.singleImgAniaD
+{
+    background-image: url(../../image/aniaD.webp);
+}
